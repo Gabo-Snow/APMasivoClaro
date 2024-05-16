@@ -1,0 +1,8 @@
+C:\Users\Marcelo\source\repos\Solucion APM\Vista_APM\obj\Debug\Vista_APM.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\Solucion APM\Vista_APM\obj\Debug\Ventana_APM.Main.resources
+C:\Users\Marcelo\source\repos\Solucion APM\Vista_APM\obj\Debug\Vista_APM.Properties.Resources.resources
+C:\Users\Marcelo\source\repos\Solucion APM\Vista_APM\obj\Debug\Ventana_APM.Ventanas.Asignados_1.resources
+C:\Users\Marcelo\source\repos\Solucion APM\Vista_APM\obj\Debug\Ventana_APM.Ventanas.Fase_1.resources
+C:\Users\Marcelo\source\repos\Solucion APM\Vista_APM\obj\Debug\Ventana_APM.Ventanas.Prueba_1.resources
+C:\Users\Marcelo\source\repos\Solucion APM\Vista_APM\obj\Debug\Vista_APM.csproj.GenerateResource.cache
+C:\Users\Marcelo\source\repos\Solucion APM\Vista_APM\obj\Debug\Vista_APM.csproj.CoreCompileInputs.cache

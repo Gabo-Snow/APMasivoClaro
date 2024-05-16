@@ -1,0 +1,104 @@
+C:\Users\Marcelo\source\repos\Solucion APM\Pruebas\bin\Release\Pruebas.exe.config
+C:\Users\Marcelo\source\repos\Solucion APM\Pruebas\bin\Release\Pruebas.exe
+C:\Users\Marcelo\source\repos\Solucion APM\Pruebas\bin\Release\Pruebas.pdb
+C:\Users\Marcelo\source\repos\Solucion APM\Pruebas\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Marcelo\source\repos\Solucion APM\Pruebas\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Marcelo\source\repos\Solucion APM\Pruebas\obj\Release\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\Solucion APM\Pruebas\obj\Release\Pruebas.csproj.CopyComplete
+C:\Users\Marcelo\source\repos\Solucion APM\Pruebas\obj\Release\Pruebas.exe
+C:\Users\Marcelo\source\repos\Solucion APM\Pruebas\obj\Release\Pruebas.pdb
+D:\marcelo.cona\Desktop\Masivo-main\Pruebas\bin\Release\Pruebas.exe.config
+D:\marcelo.cona\Desktop\Masivo-main\Pruebas\bin\Release\Pruebas.exe
+D:\marcelo.cona\Desktop\Masivo-main\Pruebas\bin\Release\Pruebas.pdb
+D:\marcelo.cona\Desktop\Masivo-main\Pruebas\bin\Release\DocumentFormat.OpenXml.dll
+D:\marcelo.cona\Desktop\Masivo-main\Pruebas\bin\Release\DocumentFormat.OpenXml.xml
+D:\marcelo.cona\Desktop\Masivo-main\Pruebas\obj\Release\Pruebas.csproj.CoreCompileInputs.cache
+D:\marcelo.cona\Desktop\Masivo-main\Pruebas\obj\Release\Pruebas.csproj.CopyComplete
+D:\marcelo.cona\Desktop\Masivo-main\Pruebas\obj\Release\Pruebas.exe
+D:\marcelo.cona\Desktop\Masivo-main\Pruebas\obj\Release\Pruebas.pdb
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\bin\Release\Pruebas.exe.config
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\bin\Release\Pruebas.exe
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\bin\Release\Pruebas.pdb
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\bin\Release\DocumentFormat.OpenXml.dll
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\bin\Release\Progama APM.exe
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\bin\Release\SpreadsheetLight.dll
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\bin\Release\System.Drawing.Common.dll
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\bin\Release\Progama APM.pdb
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\bin\Release\Progama APM.exe.config
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\bin\Release\DocumentFormat.OpenXml.xml
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\bin\Release\SpreadsheetLight.xml
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\obj\Release\Pruebas.csproj.AssemblyReference.cache
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\obj\Release\Pruebas.csproj.CoreCompileInputs.cache
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\obj\Release\Pruebas.csproj.CopyComplete
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\obj\Release\Pruebas.exe
+D:\marcelo.cona\My Documents\GitHub\Masivo\Pruebas\obj\Release\Pruebas.pdb
+D:\Masivo\Pruebas\bin\Release\Pruebas.exe.config
+D:\Masivo\Pruebas\bin\Release\Pruebas.exe
+D:\Masivo\Pruebas\bin\Release\Pruebas.pdb
+D:\Masivo\Pruebas\bin\Release\DocumentFormat.OpenXml.dll
+D:\Masivo\Pruebas\bin\Release\Progama APM.exe
+D:\Masivo\Pruebas\bin\Release\Spire.License.dll
+D:\Masivo\Pruebas\bin\Release\Spire.Pdf.dll
+D:\Masivo\Pruebas\bin\Release\Spire.XLS.dll
+D:\Masivo\Pruebas\bin\Release\SpreadsheetLight.dll
+D:\Masivo\Pruebas\bin\Release\System.Drawing.Common.dll
+D:\Masivo\Pruebas\bin\Release\Microsoft.mshtml.dll
+D:\Masivo\Pruebas\bin\Release\Progama APM.pdb
+D:\Masivo\Pruebas\bin\Release\Progama APM.exe.config
+D:\Masivo\Pruebas\bin\Release\DocumentFormat.OpenXml.xml
+D:\Masivo\Pruebas\bin\Release\Spire.License.xml
+D:\Masivo\Pruebas\bin\Release\Spire.Pdf.xml
+D:\Masivo\Pruebas\bin\Release\Spire.XLS.xml
+D:\Masivo\Pruebas\bin\Release\SpreadsheetLight.xml
+D:\Masivo\Pruebas\obj\Release\Pruebas.csproj.AssemblyReference.cache
+D:\Masivo\Pruebas\obj\Release\Pruebas.csproj.CoreCompileInputs.cache
+D:\Masivo\Pruebas\obj\Release\Pruebas.csproj.CopyComplete
+D:\Masivo\Pruebas\obj\Release\Pruebas.exe
+D:\Masivo\Pruebas\obj\Release\Pruebas.pdb
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Pruebas.exe.config
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Pruebas.exe
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Pruebas.pdb
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\DocumentFormat.OpenXml.dll
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Progama APM.exe
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Spire.License.dll
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Spire.Pdf.dll
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Spire.XLS.dll
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\SpreadsheetLight.dll
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\System.Drawing.Common.dll
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Microsoft.mshtml.dll
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Progama APM.pdb
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Progama APM.exe.config
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\DocumentFormat.OpenXml.xml
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Spire.License.xml
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Spire.Pdf.xml
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\Spire.XLS.xml
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\bin\Release\SpreadsheetLight.xml
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\obj\Release\Pruebas.csproj.AssemblyReference.cache
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\obj\Release\Pruebas.csproj.SuggestedBindingRedirects.cache
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\obj\Release\Pruebas.csproj.CoreCompileInputs.cache
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\obj\Release\Pruebas.csproj.CopyComplete
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\obj\Release\Pruebas.exe
+D:\ProG\MasivoAPMClaro\Masivo\Pruebas\obj\Release\Pruebas.pdb
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Pruebas.exe.config
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Pruebas.exe
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Pruebas.pdb
+D:\prebilling\APMMasivo\Pruebas\bin\Release\DocumentFormat.OpenXml.dll
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Progama APM.exe
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Spire.License.dll
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Spire.Pdf.dll
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Spire.XLS.dll
+D:\prebilling\APMMasivo\Pruebas\bin\Release\SpreadsheetLight.dll
+D:\prebilling\APMMasivo\Pruebas\bin\Release\System.Drawing.Common.dll
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Microsoft.mshtml.dll
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Progama APM.pdb
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Progama APM.exe.config
+D:\prebilling\APMMasivo\Pruebas\bin\Release\DocumentFormat.OpenXml.xml
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Spire.License.xml
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Spire.Pdf.xml
+D:\prebilling\APMMasivo\Pruebas\bin\Release\Spire.XLS.xml
+D:\prebilling\APMMasivo\Pruebas\bin\Release\SpreadsheetLight.xml
+D:\prebilling\APMMasivo\Pruebas\obj\Release\Pruebas.csproj.AssemblyReference.cache
+D:\prebilling\APMMasivo\Pruebas\obj\Release\Pruebas.csproj.CoreCompileInputs.cache
+D:\prebilling\APMMasivo\Pruebas\obj\Release\Pruebas.csproj.CopyComplete
+D:\prebilling\APMMasivo\Pruebas\obj\Release\Pruebas.exe
+D:\prebilling\APMMasivo\Pruebas\obj\Release\Pruebas.pdb

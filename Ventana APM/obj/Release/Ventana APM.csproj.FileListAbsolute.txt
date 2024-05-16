@@ -1,0 +1,320 @@
+C:\Users\Marcelo\source\repos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Main.resources
+C:\Users\Marcelo\source\repos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Properties.Resources.resources
+C:\Users\Marcelo\source\repos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Asignados_1.resources
+C:\Users\Marcelo\source\repos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Fase_1.resources
+C:\Users\Marcelo\source\repos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Prueba_1.resources
+C:\Users\Marcelo\source\repos\Solucion APM\Ventana APM\obj\Release\Ventana APM.csproj.GenerateResource.cache
+C:\Users\Marcelo\source\repos\Solucion APM\Ventana APM\obj\Release\Ventana APM.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\bin\Release\Progama APM.exe.config
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\bin\Release\Progama APM.exe.manifest
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\bin\Release\Progama APM.application
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\bin\Release\Progama APM.exe
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\bin\Release\Progama APM.pdb
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\bin\Release\SpreadsheetLight.dll
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\bin\Release\System.Drawing.Common.dll
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\bin\Release\SpreadsheetLight.xml
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajustes_Varios.resources
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajuste_CFM.resources
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Main.resources
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Asignados_1.resources
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.PruebaHilo.resources
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_De_Activacion.resources
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_de_Arrendamiento.resources
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Compartidos.resources
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Gyp_Pro.resources
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Tipo_Empresa.resources
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana APM.csproj.GenerateResource.cache
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Progama APM.exe.licenses
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana APM.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Progama APM.exe.manifest
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Progama APM.application
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana APM.csproj.CopyComplete
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Progama APM.exe
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Progama APM.pdb
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana APM.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Ahora si final final final final final\Como crear excel con varias hojas\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Corporaciones.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\bin\Release\Progama APM.exe.config
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\bin\Release\Progama APM.exe.manifest
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\bin\Release\Progama APM.application
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\bin\Release\Progama APM.exe
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\bin\Release\Progama APM.pdb
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\bin\Release\DocumentFormat.OpenXml.dll
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\bin\Release\SpreadsheetLight.dll
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\bin\Release\System.Drawing.Common.dll
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\bin\Release\DocumentFormat.OpenXml.xml
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\bin\Release\SpreadsheetLight.xml
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana APM.csproj.AssemblyReference.cache
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajustes_Varios.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajuste_CFM.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Corporaciones.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Main.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Properties.Resources.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Asignados_1.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.PruebaHilo.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_De_Activacion.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_de_Arrendamiento.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Compartidos.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Gyp_Pro.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Tipo_Empresa.resources
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana APM.csproj.GenerateResource.cache
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Progama APM.exe.licenses
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana APM.csproj.CoreCompileInputs.cache
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Progama APM.exe.manifest
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Progama APM.application
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Ventana APM.csproj.CopyComplete
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Progama APM.exe
+D:\marcelo.cona\My Documents\Proyectos\Solucion APM\Ventana APM\obj\Release\Progama APM.pdb
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\bin\Release\Progama APM.exe.config
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\bin\Release\Progama APM.exe.manifest
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\bin\Release\Progama APM.application
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\bin\Release\Progama APM.exe
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\bin\Release\Progama APM.pdb
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\bin\Release\SpreadsheetLight.dll
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\bin\Release\System.Drawing.Common.dll
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\bin\Release\SpreadsheetLight.xml
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.AssemblyReference.cache
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajustes_Varios.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajuste_CFM.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Corporaciones.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Main.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Properties.Resources.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Asignados_1.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.PruebaHilo.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_De_Activacion.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_de_Arrendamiento.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Compartidos.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Gyp_Pro.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Tipo_Empresa.resources
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.GenerateResource.cache
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Progama APM.exe.licenses
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Progama APM.exe.manifest
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Progama APM.application
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.CopyComplete
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Progama APM.exe
+C:\Users\marcelo.cona\Source\Repos\felipeorellana24\Masivo\Ventana APM\obj\Release\Progama APM.pdb
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\Progama APM.exe.config
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\Progama APM.exe.manifest
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\Progama APM.application
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\Progama APM.exe
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\Progama APM.pdb
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Data.v20.2.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Utils.v20.2.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\SpreadsheetLight.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\System.Drawing.Common.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Data.v20.2.xml
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Utils.v20.2.xml
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\SpreadsheetLight.xml
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\bin\Release\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana APM.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajustes_Varios.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajuste_CFM.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Corporaciones.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Main.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Asignados_1.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.PruebaHilo.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_De_Activacion.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_de_Arrendamiento.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Compartidos.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Gyp_Pro.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Tipo_Empresa.resources
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana APM.csproj.GenerateResource.cache
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Progama APM.exe.licenses
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana APM.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Progama APM.exe.manifest
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Progama APM.application
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana APM.csproj.CopyComplete
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Progama APM.exe
+C:\Users\Marcelo\Desktop\Masivo-main\Ventana APM\obj\Release\Progama APM.pdb
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\bin\Release\Progama APM.exe.config
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\bin\Release\Progama APM.exe.manifest
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\bin\Release\Progama APM.application
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\bin\Release\Progama APM.exe
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\bin\Release\Progama APM.pdb
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\bin\Release\DocumentFormat.OpenXml.dll
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\bin\Release\SpreadsheetLight.dll
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\bin\Release\System.Drawing.Common.dll
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\bin\Release\DocumentFormat.OpenXml.xml
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\bin\Release\SpreadsheetLight.xml
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana APM.csproj.AssemblyReference.cache
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajustes_Varios.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajuste_CFM.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Corporaciones.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Main.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Properties.Resources.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Asignados_1.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.PruebaHilo.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_De_Activacion.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_de_Arrendamiento.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Compartidos.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Gyp_Pro.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Tipo_Empresa.resources
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana APM.csproj.GenerateResource.cache
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Progama APM.exe.licenses
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana APM.csproj.CoreCompileInputs.cache
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Progama APM.exe.manifest
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Progama APM.application
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Ventana APM.csproj.CopyComplete
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Progama APM.exe
+D:\marcelo.cona\Desktop\Masivo-main\Ventana APM\obj\Release\Progama APM.pdb
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\bin\Release\Progama APM.exe.config
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\bin\Release\Progama APM.exe.manifest
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\bin\Release\Progama APM.application
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\bin\Release\Progama APM.exe
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\bin\Release\Progama APM.pdb
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\bin\Release\DocumentFormat.OpenXml.dll
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\bin\Release\SpreadsheetLight.dll
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\bin\Release\System.Drawing.Common.dll
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\bin\Release\DocumentFormat.OpenXml.xml
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\bin\Release\SpreadsheetLight.xml
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.AssemblyReference.cache
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajustes_Varios.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajuste_CFM.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Corporaciones.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Main.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Properties.Resources.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Asignados_1.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.PruebaHilo.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_De_Activacion.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_de_Arrendamiento.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Compartidos.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Gyp_Pro.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Tipo_Empresa.resources
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.GenerateResource.cache
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Progama APM.exe.licenses
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.CoreCompileInputs.cache
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Progama APM.exe.manifest
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Progama APM.application
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.CopyComplete
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Progama APM.exe
+D:\marcelo.cona\My Documents\GitHub\Masivo\Ventana APM\obj\Release\Progama APM.pdb
+D:\Masivo\Ventana APM\bin\Release\Progama APM.exe.config
+D:\Masivo\Ventana APM\bin\Release\Progama APM.exe.manifest
+D:\Masivo\Ventana APM\bin\Release\Progama APM.application
+D:\Masivo\Ventana APM\bin\Release\Progama APM.exe
+D:\Masivo\Ventana APM\bin\Release\Progama APM.pdb
+D:\Masivo\Ventana APM\bin\Release\DocumentFormat.OpenXml.dll
+D:\Masivo\Ventana APM\bin\Release\SpreadsheetLight.dll
+D:\Masivo\Ventana APM\bin\Release\System.Drawing.Common.dll
+D:\Masivo\Ventana APM\bin\Release\DocumentFormat.OpenXml.xml
+D:\Masivo\Ventana APM\bin\Release\SpreadsheetLight.xml
+D:\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.AssemblyReference.cache
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajustes_Varios.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajuste_CFM.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Corporaciones.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Main.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Properties.Resources.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Asignados_1.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.PruebaHilo.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_De_Activacion.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_de_Arrendamiento.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Compartidos.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Gyp_Pro.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Tipo_Empresa.resources
+D:\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.GenerateResource.cache
+D:\Masivo\Ventana APM\obj\Release\Progama APM.exe.licenses
+D:\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.CoreCompileInputs.cache
+D:\Masivo\Ventana APM\obj\Release\Progama APM.exe.manifest
+D:\Masivo\Ventana APM\obj\Release\Progama APM.application
+D:\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.CopyComplete
+D:\Masivo\Ventana APM\obj\Release\Progama APM.exe
+D:\Masivo\Ventana APM\obj\Release\Progama APM.pdb
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.AssemblyReference.cache
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.SuggestedBindingRedirects.cache
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajustes_Varios.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajuste_CFM.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Corporaciones.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Main.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Properties.Resources.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Asignados_1.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.PruebaHilo.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_De_Activacion.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_de_Arrendamiento.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Compartidos.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Gyp_Pro.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Tipo_Empresa.resources
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.GenerateResource.cache
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Progama APM.exe.licenses
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.CoreCompileInputs.cache
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Progama APM.exe
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Progama APM.pdb
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\bin\Release\Progama APM.exe.config
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\bin\Release\Progama APM.exe
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\bin\Release\Progama APM.pdb
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\bin\Release\DocumentFormat.OpenXml.dll
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\bin\Release\SpreadsheetLight.dll
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\bin\Release\System.Drawing.Common.dll
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\bin\Release\DocumentFormat.OpenXml.xml
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\bin\Release\SpreadsheetLight.xml
+D:\ProG\MasivoAPMClaro\Masivo\Ventana APM\obj\Release\Ventana APM.csproj.CopyComplete
+D:\prebilling\APMMasivo\Ventana APM\bin\Release\Progama APM.exe.config
+D:\prebilling\APMMasivo\Ventana APM\bin\Release\Progama APM.exe
+D:\prebilling\APMMasivo\Ventana APM\bin\Release\Progama APM.pdb
+D:\prebilling\APMMasivo\Ventana APM\bin\Release\DocumentFormat.OpenXml.dll
+D:\prebilling\APMMasivo\Ventana APM\bin\Release\SpreadsheetLight.dll
+D:\prebilling\APMMasivo\Ventana APM\bin\Release\System.Drawing.Common.dll
+D:\prebilling\APMMasivo\Ventana APM\bin\Release\DocumentFormat.OpenXml.xml
+D:\prebilling\APMMasivo\Ventana APM\bin\Release\SpreadsheetLight.xml
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana APM.csproj.AssemblyReference.cache
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajustes_Varios.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ajuste_CFM.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Corporaciones.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Main.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Properties.Resources.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Asignados_1.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.PruebaHilo.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_De_Activacion.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Cargos_de_Arrendamiento.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Compartidos.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Gyp_Pro.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Tipo_Empresa.resources
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana APM.csproj.GenerateResource.cache
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Progama APM.exe.licenses
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana APM.csproj.CoreCompileInputs.cache
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana APM.csproj.CopyComplete
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Progama APM.exe
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Progama APM.pdb
+D:\prebilling\APMMasivo\Ventana APM\obj\Release\Ventana_APM.Ventanas.Ventana_Carteras.resources

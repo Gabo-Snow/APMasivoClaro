@@ -1,0 +1,65 @@
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.exe.config
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.exe
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.pdb
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\bin\Release\DocumentFormat.OpenXml.dll
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\bin\Release\Progama APM.exe
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\bin\Release\SpreadsheetLight.dll
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\bin\Release\System.Drawing.Common.dll
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\bin\Release\Progama APM.pdb
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\bin\Release\Progama APM.exe.config
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\bin\Release\DocumentFormat.OpenXml.xml
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\bin\Release\SpreadsheetLight.xml
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.AssemblyReference.cache
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.CoreCompileInputs.cache
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.CopyComplete
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.exe
+D:\marcelo.cona\Desktop\Masivo-main\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.pdb
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.exe.config
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.exe
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.pdb
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\bin\Release\DocumentFormat.OpenXml.dll
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\bin\Release\Progama APM.exe
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\bin\Release\SpreadsheetLight.dll
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\bin\Release\System.Drawing.Common.dll
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\bin\Release\Progama APM.pdb
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\bin\Release\Progama APM.exe.config
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\bin\Release\DocumentFormat.OpenXml.xml
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\bin\Release\SpreadsheetLight.xml
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.AssemblyReference.cache
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.CoreCompileInputs.cache
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.CopyComplete
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.exe
+D:\marcelo.cona\My Documents\GitHub\Masivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.pdb
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.exe.config
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.exe
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.pdb
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\bin\Release\DocumentFormat.OpenXml.dll
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\bin\Release\Progama APM.exe
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\bin\Release\SpreadsheetLight.dll
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\bin\Release\System.Drawing.Common.dll
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\bin\Release\Progama APM.pdb
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\bin\Release\Progama APM.exe.config
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\bin\Release\DocumentFormat.OpenXml.xml
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\bin\Release\SpreadsheetLight.xml
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.AssemblyReference.cache
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.SuggestedBindingRedirects.cache
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.CoreCompileInputs.cache
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.CopyComplete
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.exe
+D:\ProG\MasivoAPMClaro\Masivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.pdb
+D:\prebilling\APMMasivo\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.exe.config
+D:\prebilling\APMMasivo\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.exe
+D:\prebilling\APMMasivo\Cargos_de_Activacion\bin\Release\Cargos_de_Activacion.pdb
+D:\prebilling\APMMasivo\Cargos_de_Activacion\bin\Release\DocumentFormat.OpenXml.dll
+D:\prebilling\APMMasivo\Cargos_de_Activacion\bin\Release\Progama APM.exe
+D:\prebilling\APMMasivo\Cargos_de_Activacion\bin\Release\SpreadsheetLight.dll
+D:\prebilling\APMMasivo\Cargos_de_Activacion\bin\Release\System.Drawing.Common.dll
+D:\prebilling\APMMasivo\Cargos_de_Activacion\bin\Release\Progama APM.pdb
+D:\prebilling\APMMasivo\Cargos_de_Activacion\bin\Release\Progama APM.exe.config
+D:\prebilling\APMMasivo\Cargos_de_Activacion\bin\Release\DocumentFormat.OpenXml.xml
+D:\prebilling\APMMasivo\Cargos_de_Activacion\bin\Release\SpreadsheetLight.xml
+D:\prebilling\APMMasivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.AssemblyReference.cache
+D:\prebilling\APMMasivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.CoreCompileInputs.cache
+D:\prebilling\APMMasivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.csproj.CopyComplete
+D:\prebilling\APMMasivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.exe
+D:\prebilling\APMMasivo\Cargos_de_Activacion\obj\Release\Cargos_de_Activacion.pdb
